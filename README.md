@@ -1,2 +1,2 @@
 # Quote-Generator
-# Cick here --> [Live Project Link](dailyquote-generator.netlify.app)🔗
+# Click here --> [Live Project Link](dailyquote-generator.netlify.app)🔗
